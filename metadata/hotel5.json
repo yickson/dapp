@@ -1,0 +1,15 @@
+{
+    "name": "Hotel 5 stars",
+    "description": "Hotel 5 stars in paradise Hotel, management the best hotel",
+    "image": "https://www.dropbox.com/s/bortw4h55ypqgk1/hotel.png",
+    "attributes": [
+        {
+            "trait_type": "rooms",
+            "value": 40
+        },
+        {
+            "trait_type": "royalty",
+            "value": 35
+        }
+    ]
+}
